@@ -17,8 +17,8 @@ console.log(logIt())
 
 
 // annonymus function
-document.getElementById('').addEventListener('click', () => {
+// document.getElementById('').addEventListener('click', () => {
     
-})
+// })
 
 
