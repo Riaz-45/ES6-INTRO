@@ -26,7 +26,9 @@ delete employee.experience;
 delete employee.salary;
 
 // object ke freeze kore rakhte freeze property--->ekhetre object er kono kichui change kora jabe na
-Object.freeze(employee)
+Object.freeze(employee);
 
-console.log(entries);
-console.log(employee)
+// Object.seal(employee);
+
+// console.log(entries);
+console.log(employee);
